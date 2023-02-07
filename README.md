@@ -1,9 +1,9 @@
 # statspremierleague
 
-##Installation:
+## Installation:
 
-###pip3 install -r requirements.txt
+### pip3 install -r requirements.txt
  
-##Example:
+## Example:
 
-###python3 main.py -t Chelsea
+### python3 main.py -t Chelsea
