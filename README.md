@@ -10,4 +10,5 @@ pip3 install -r requirements.txt
 
 ```
 python3 main.py -t Chelsea
+python3 main.py -t 'Manchester City' 
 ```
