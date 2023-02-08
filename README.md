@@ -1,5 +1,5 @@
 # statspremierleague
-stats league season 2022/2023
+stats premier league season 2022/2023
 ## Installation:
 
 ```
