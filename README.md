@@ -13,6 +13,6 @@ python3 main.py -t 'Manchester City'
 ```
 ![Alt Text](https://github.com/MiyyerGaitan/statspremierleague/blob/main/assets/01.png)
 ```
-python3 main.py -t 'Manchester City' 
+python3 main.py -l 
 ```
 ![Alt Text](https://github.com/MiyyerGaitan/statspremierleague/blob/main/assets/02.png)
